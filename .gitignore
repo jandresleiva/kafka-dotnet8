@@ -1,0 +1,6 @@
+# Visual
+.vs/
+
+# C#
+bin/
+obj/
